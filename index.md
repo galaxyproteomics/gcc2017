@@ -39,15 +39,15 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 
  _Wednesday, June 28, 2017 (12:30 pm - 3:00 pm)_
  
-- Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
- 
-- Basics of Data Analysis and Database Search using Galaxy platform. (_Tim Griffin_)
- 
-- Metaproteomic analysis – Exploring taxonomy of the microbiome (_James Johnson_)
- 
-- Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
- 
-- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
+1. Instructions on how to access the resource (30 minutes)
+
+2. Introduction to Proteomics (1 hour)
+
+3. Multi-omics Workflows ( 1 hour)
+ -Proteogenomics Workflow: Used for filtering identified peptides from proteogenomic analyses.
+ -Metaproteomics Workflow: Used for identifying genera from identified peptides from metaproteomics analysis.
+
+At the end of the workshop, attendees will have working knowledge of MS-based proteomics tools; experience in setting up basic workflows for protein identification, as well as more advanced workflows in proteogenomics and metaproteomics. 
 
 <br>
 
