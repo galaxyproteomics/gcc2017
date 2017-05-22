@@ -25,7 +25,7 @@ _Did you think that Galaxy is just for genomic data analysis? Not anymore. Come 
 
 **Workshop goals:**
 
-_1. Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains._
+_1. Introduce the Galaxy framework as a solution for data analysis across proteomic domains._
 
 _2. Provide hands-on experience to attendees in using Galaxy._
 
