@@ -44,8 +44,10 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 2. Introduction to Proteomics (1 hour)
 
 3. Multi-omics Workflows ( 1 hour)
- -Proteogenomics Workflow: Used for filtering identified peptides from proteogenomic analyses.
- -Metaproteomics Workflow: Used for identifying genera from identified peptides from metaproteomics analysis.
+
+   -Proteogenomics Workflow: Used for filtering identified peptides from proteogenomic analyses.
+ 
+   -Metaproteomics Workflow: Used for identifying genera from identified peptides from metaproteomics analysis.
 
 At the end of the workshop, attendees will have working knowledge of MS-based proteomics tools; experience in setting up basic workflows for protein identification, as well as more advanced workflows in proteogenomics and metaproteomics. 
 
