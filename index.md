@@ -9,7 +9,6 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 - Workshop presentation slides: [Presentation Link](link.link){:target="_blank"}
 - Workshop documentation: [Documentation Link](link.link){:target="_blank"}
 
-
 **Galaxy-P platform for Proteomics!**
 
 #### ***Not just for genomics anymore: Galaxy for Proteomic analysis*** 
@@ -58,5 +57,6 @@ At the end of the workshop, attendees will have working knowledge of MS-based pr
 <br>
 
 [Please provide us with your feedback](link.link){:target="_blank"}
+
 
 
