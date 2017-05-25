@@ -5,10 +5,9 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 
 **Instructors:** Tim Griffin, Pratik Jagtap, James Johnson and Clemens Blank
 
-
-- Accessing Galaxy instance on JetStream: [http://z.umn.edu/galaxypsummer](http://z.umn.edu/galaxypsummer)
-- Workshop presentation slides: [http://z.umn.edu/sw1presentation](http://z.umn.edu/sw1presentation)
-- Workshop documentation: [http://z.umn.edu/sw1documentation](http://z.umn.edu/sw1documentation)
+- Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
+- Workshop presentation slides: [Presentation Link](link.link){:target="_blank"}
+- Workshop documentation: [Documentation Link](link.link){:target="_blank"}
 
 **Galaxy-P platform for Proteomics!**
 
@@ -16,7 +15,6 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 _Did you think that Galaxy is just for genomic data analysis? Not anymore. Come to this workshop to learn how Galaxy can be used for Mutli-omic data analysis (proteogenomic and metaproteomic) and also applications that cross the ‘omic domains. This workshop will provide attendees the opportunity to take Galaxy for a 'test drive' in analyzing MS-based proteomics data. Attendees will have the opportunity to access a Galaxy instance and a walk through of GalaxyP workflows for proteogenomic and metaproteomic data analysis. An overview of the current state of software available in Galaxy for proteomics and multi-omics applications will also be provided._ 
 
 **Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary._
-
 
 
 **_Attendees are encouraged to bring a laptop computer to participate._**
@@ -34,7 +32,6 @@ _3. Demonstrate use of Galaxy for a proteogenomic and metaproteomics analysis._
 _4. Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data analysis needs (either specific to one domain or for multi-omics)._
 
 <br>
-
 **Workshop Schedule:**
 
  _Wednesday, June 28, 2017 (12:30 pm - 3:00 pm)_
@@ -52,6 +49,14 @@ _4. Lay the foundation for attendees to implement Galaxy at their own facility o
 At the end of the workshop, attendees will have working knowledge of MS-based proteomics tools; experience in setting up basic workflows for protein identification, as well as more advanced workflows in proteogenomics and metaproteomics. 
 
 <br>
+
+\- Accessing Proteogenomcis Galaxy instance on JetStream: [http://z.umn.edu/proteogenomicsgateway](http://z.umn.edu/proteogenomicsgateway){:target="_blank"}
+
+\- Accessing Metaproteomics Galaxy instance on JetStream: [http://z.umn.edu/metaproteomicsgateway](http://z.umn.edu/metaproteomicsgateway){:target="_blank"}
+
+<br>
+
+[Please provide us with your feedback](link.link){:target="_blank"}
 
 
 
