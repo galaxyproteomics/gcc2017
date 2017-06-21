@@ -56,7 +56,7 @@ At the end of the workshop, attendees will have working knowledge of MS-based pr
 
 <br>
 
-[Please provide us with your feedback](link.link){:target="_blank"}
+[Please provide us with your feedback](https://z.umn.edu/gcc2017fb){:target="_blank"}
 
 
 
