@@ -6,8 +6,9 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 **Instructors:** Tim Griffin, Pratik Jagtap, James Johnson and Clemens Blank
 
 - Accessing Galaxy instance on JetStream: [GalaxyP Summer](http://z.umn.edu/galaxypsummer){:target="_blank"}
-- Workshop presentation slides: [Presentation Link](link.link){:target="_blank"}
-- Workshop documentation: [Documentation Link](https://drive.google.com/file/d/0B0i8ZGSZOMmdYXIzcDNyazFqT3c/view){:target="_blank"}
+- Workshop presentation slides: [Presentation Link](https://z.umn.edu/gcc2017presentation){:target="_blank"}
+- Workshop documentation: [Documentation Link](
+https://z.umn.edu/gcc2017documentation){:target="_blank"}
 
 **Galaxy-P platform for Proteomics!**
 
