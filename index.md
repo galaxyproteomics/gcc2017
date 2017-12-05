@@ -9,8 +9,7 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 - [Workshop presentation slides](https://z.umn.edu/gcc2017presentation){:target="_blank"}
 - [Workshop documentation](
 https://z.umn.edu/gcc2017documentation){:target="_blank"}
-- [Workshop Video](
-https://www.youtube.com/watch?v=AM9M0G1vfc4){:target="_blank"}
+
 
 **Galaxy-P platform for Proteomics!**
 
