@@ -5,7 +5,7 @@ Wednesday, June 28, 2017 (12:30 pm-3:00 pm)
 
 **Instructors:** Tim Griffin, Pratik Jagtap, James Johnson and Clemens Blank
 
-- [_Accessing Galaxy instance on JetStream](http://z.umn.edu/galaxypsummer){:target="_blank"}
+- [Accessing Galaxy instance on JetStream] (http://z.umn.edu/galaxypsummer){:target="_blank"}
 - [Workshop presentation slides] (https://z.umn.edu/gcc2017presentation){:target="_blank"}
 - [Workshop documentation] (
 https://z.umn.edu/gcc2017documentation){:target="_blank"}
